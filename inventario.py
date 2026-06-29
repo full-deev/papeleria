@@ -44,7 +44,7 @@ while opcion != 5:
 
     # OPCIÓN 2 - MOSTRAR INVENTARIO
     elif opcion == 2:
-        print("\n--- INVENTARIO ---")
+        print("\n------- INVENTARIO -------1")
         if len(inventario) == 0:
             print("No existen productos registrados.")
 
